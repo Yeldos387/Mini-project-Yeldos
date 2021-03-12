@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Main">
+  <grid id="27dc6" binding="mainPanel" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="571" height="387"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="ae645" class="javax.swing.JButton" binding="start">
+        <constraints/>
+        <properties>
+          <text value="Запустить сервер"/>
+        </properties>
+      </component>
+      <component id="69390" class="javax.swing.JButton" binding="stop">
+        <constraints/>
+        <properties>
+          <text value="Остановить сервер"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
